@@ -1,6 +1,6 @@
 # Hi, I'm Harvard 👋  
 
-**“Bridging creativity and data to tell smarter stories.”**  
+Bridging creativity and data to tell stories that inform smarter decisions.
 
 ---
 
